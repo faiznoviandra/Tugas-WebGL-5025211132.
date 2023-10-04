@@ -3,7 +3,7 @@
 | Faiz Haq Noviandra | 5025211132 |
 |  Tugas WebGL |
 
-### RGB Triangle WebGL
+## RGB Triangle WebGL
 ```
 <!-- <!DOCTYPE html> -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -158,10 +158,11 @@ window.onload = init;  //Atur agar init() dipanggil ketika halaman telah dimuat 
 </div>
 </body></html>
 ```
-![RGB Triangle WebGL ](RGB Triangle WebGL.png)
 
+### Dokumentasi
+![RGB Triangle WebGL ](https://github.com/faiznoviandra/Tugas-WebGL-5025211132./assets/116566988/0bd12acb-fe3c-47a6-a9f2-71a01c24751f)
 
-###
+## Kubus Menggunakan glMatrix dan WebGL
 ```
 <!DOCTYPE html>
 <meta charset="UTF-8">
@@ -339,6 +340,24 @@ window.onload = init;
 </body>
 </html>
 ```
+
+### Dokumentasi
+
+Kubus gambar lengkap
+![Kubus dengan lengkap](https://github.com/faiznoviandra/Tugas-WebGL-5025211132./assets/116566988/9b9c7168-1801-4efa-b60c-4d0365d9a7bf)
+
+Kubus tanpa atas
+![Kubus tanpa atas](https://github.com/faiznoviandra/Tugas-WebGL-5025211132./assets/116566988/552ebe2c-faa2-416f-a673-2519b3f8c1f4)
+
+kubus tanpa bagian depan
+![Kubus tanpa bagian depan](https://github.com/faiznoviandra/Tugas-WebGL-5025211132./assets/116566988/f12acc23-547f-4011-909d-f748c63e9431)
+
+kubus tanpa bagian kanan
+![Kubus tanpa bagian kanan](https://github.com/faiznoviandra/Tugas-WebGL-5025211132./assets/116566988/d9e7a780-b3fc-437e-81ec-3d3e283011e6)
+
+
+
+
 
 
 
